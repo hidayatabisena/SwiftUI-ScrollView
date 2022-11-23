@@ -4,7 +4,7 @@
 Experimenting with ScrollView
 
 
-## Banner
+## Screenshot
 
 ![App Screenshot](https://res.cloudinary.com/moyadev/image/upload/v1663465860/Moyadev/1x-pika-1663465805817_r4brk3.png)
 
